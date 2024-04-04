@@ -1,6 +1,6 @@
 <h1 align="center">Project Description:</h1>
 <h2> Welcome to the website of our dealership, where we specialize in offering an extensive range of new and pre-owned vehicles to discerning customers. Beyond just sales, our dealership prides itself on providing comprehensive services for customizing and enhancing vehicles to meet individual preferences and needs. The website of the dealership is going to have: </h2>
- • Vehicle Catalog showcasing cars available in the dealership and upcoming arrivals.
+ <ul>• Vehicle Catalog showcasing cars available in the dealership and upcoming arrivals.</ul>
  • Detailed Vehicle Listings: Each car in our catalog is accompanied by an in-depth breakdown of its distinctive features.
  • Test Drive Booking: Conveniently schedule your test drive through our website. Access information on available test drive slots for each vehicle and register for your preferred time slot with ease.
  • Vehicle Customization: Tailor your chosen vehicle to your preferences with our dedicated configuration tool.
