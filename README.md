@@ -27,3 +27,8 @@ Characteristics List:</h3>
  <h4>• Wheel Covers</h4>
  <h4>• Carbon Fiber Enhancement for: Cup Holders, Side View Mirrors, Roof, etc. (customizable parts as per customer's desire)</h4>
  <h4>• Fuel Conversion (e.g., from petrol to gas)</h4>
+ <hr>
+ <h2>Team members:</h2>
+ <h3>Ogay David</h3>
+ <h3>Zhaina Igenbek</h3>
+ <h3>Dariya </h3>
