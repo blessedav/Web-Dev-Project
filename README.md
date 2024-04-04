@@ -3,10 +3,13 @@
  • Vehicle Catalog showcasing cars available in the dealership and upcoming arrivals.
 <hr>
  • Detailed Vehicle Listings: Each car in our catalog is accompanied by an in-depth breakdown of its distinctive features.
+ <hr>
  • Test Drive Booking: Conveniently schedule your test drive through our website. Access information on available test drive slots for each vehicle and register for your preferred time slot with ease.
+ <hr>
  • Vehicle Customization: Tailor your chosen vehicle to your preferences with our dedicated configuration tool.
 Characteristics List:
  • Model Name
+ </n>
  • Body Type: Sedan/SUV/Pickup/Coupe/Convertible/Sports (additional options can be added if needed)
  • Power Source: Gasoline, Diesel, Hybrid, Electric
  • Number of Doors: 2-5
