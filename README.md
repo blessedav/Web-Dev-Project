@@ -1,4 +1,4 @@
-Project Description:/
+<h1 align="center">Project Description:</a></h1>
 Welcome to the website of our dealership, where we specialize in offering an extensive range of new and pre-owned vehicles to discerning customers. Beyond just sales, our dealership prides itself on providing comprehensive services for customizing and enhancing vehicles to meet individual preferences and needs. The website of the dealership is going to have:
  • Vehicle Catalog showcasing cars available in the dealership and upcoming arrivals.
  • Detailed Vehicle Listings: Each car in our catalog is accompanied by an in-depth breakdown of its distinctive features.
