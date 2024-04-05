@@ -29,6 +29,6 @@ Characteristics List:</h3>
  <h4>• Fuel Conversion (e.g., from petrol to gas)</h4>
  <hr>
  <h2>Team members:</h2>
- <h3>•Ogay David</h3>
+ <h3>•David Ogay</h3>
  <h3>•Zhaina Igenbek</h3>
- <h3>•Dariya </h3>
+ <h3>•Dariya Moldash</h3>
